@@ -7,4 +7,3 @@ something awesome
 
 ## How is not made Acappuccino?
 1. Instant coffee
-2. Coffee
