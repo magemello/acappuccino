@@ -1,5 +1,6 @@
 # Acappuccino
-something awesome
+Something awesome.
+Mission: how to teach your machine to recognize a cappuccino.
 
 ## How is made Acappuccino?
 1. Milk
